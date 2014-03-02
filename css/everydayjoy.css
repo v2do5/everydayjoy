@@ -332,6 +332,39 @@ h3{
 	line-height: 34px;
 }
 
+.about-block-page-order{
+	text-align: left;	
+	font-family: 'Museo', Helvetica, Arial, sans-serif;
+}
+
+.about-block-page-order h2{
+	color: #f24b86;	
+}
+
+.about-block-page-order a{
+	color: #f24b86;
+	text-decoration: underline;
+}
+
+.about-block-page-order a:hover{
+	color: #d83870;
+	text-decoration: none;
+}
+
+.about-block-page-order h1{
+	font-size: 50px;
+	margin-top: 60px;
+	font-weight: 900;
+	margin-bottom: 24px;
+	color: #424242;
+}
+
+.about-block-page-order p{
+	font-size: 18px;
+	color: #434242;
+	line-height: 34px;
+}
+
 .how-to{
 	color: #434242;
 	margin-top: 100px;
@@ -434,6 +467,25 @@ h3{
 	clear: both;
 }
 
+.price-inner-page{
+	text-align: left;
+	margin-top: -10px;
+}
+
+.price-inner-page img{
+	width: 500px;
+}
+
+.price-inner-page h2{
+	color: #f24b86;
+}
+
+.price-inner-page p{
+	font-size: 15px;
+	color: #424242;
+	clear: both;
+}
+
 .big-price{
 	font-family: 'Museo', Helvetica, Arial, sans-serif;
 	font-weight: 900;
@@ -462,7 +514,6 @@ h3{
 .big-price-text{
 	font-family: 'Museo', Helvetica, Arial, sans-serif;
 	font-weight: 900;
-	font-size: 60px;
 	color: #f24b86;
 	margin-top: 20px;
 	float: left;
@@ -473,6 +524,20 @@ h3{
 	margin-left: 12px;
 }
 
+.price-inner-page .big-price{
+	font-size: 50px;
+}
+
+.price-inner-page .big-price-15{
+	font-size: 50px;
+}
+
+.price-inner-page .big-price-text{
+	font-size: 22px;
+	line-height: 26px;
+	padding-top: 6px;
+}
+
 .price-15-wrapper{
 	text-align: center;
 }
@@ -480,6 +545,13 @@ h3{
 .big-price-wrapper {
 	width: 360px;
 	margin: auto;
+}
+
+.about-block-page-order h4{
+	font-family: 'Museo', Helvetica, Arial, sans-serif;
+	color: #424242;
+	font-weight: 700;
+	margin-top: 30px;
 }
 
 .flower_price img{
@@ -561,4 +633,60 @@ footer{
 .comics-week img{
 	width: 1000px;
 	text-align: center;
+}
+
+.order-form{
+}
+
+.order-form label{
+	font-size: 18px;
+	margin-bottom: 8px;
+	margin-top: 30px;
+}
+
+.order-form input{
+	height: 50px;
+	font-size: 16px;
+}
+
+.input-description{
+	font-size: 12px;
+	color: #848484;
+	margin-top: 6px;
+}
+
+.input-800{
+	width: 800px;
+}
+
+.input-300{
+	width: 280px;
+}
+
+.rub-right{
+	font-size: 24px;
+	margin-left: -20px;
+	margin-top: 6px;
+	font-weight: 900;
+	color: #f24b86;
+}
+
+.btn-form{
+	font-size: 13px;
+	margin-top: 30px;
+}
+
+.next-step{
+	font-size: 26px;
+	margin-top: 30px;
+}
+
+.next-step a{
+	text-decoration: none;
+	border-bottom: 1px solid #f24b86;
+}
+
+.next-step a:hover{
+	text-decoration: none;
+	border-bottom: none;
 }
