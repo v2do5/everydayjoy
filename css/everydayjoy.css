@@ -644,9 +644,14 @@ footer{
 	margin-top: 30px;
 }
 
+.macaroons{
+	margin-bottom: -8px;
+	margin-top: -30px;
+}
+
 .order-form input{
-	height: 50px;
 	font-size: 16px;
+	padding-bottom: 8px;
 }
 
 .input-description{
@@ -656,7 +661,11 @@ footer{
 }
 
 .input-800{
-	width: 800px;
+	width: 500px;
+}
+
+.input-600{
+	width: 700px;
 }
 
 .input-300{
@@ -666,7 +675,7 @@ footer{
 .rub-right{
 	font-size: 24px;
 	margin-left: -20px;
-	margin-top: 6px;
+	margin-top: 4px;
 	font-weight: 900;
 	color: #f24b86;
 }
@@ -689,4 +698,38 @@ footer{
 .next-step a:hover{
 	text-decoration: none;
 	border-bottom: none;
+}
+
+.cards-img img{
+	width: 257px;
+}
+
+.cards-img img:hover{
+	cursor: pointer;
+}
+
+.macaroons-img img{
+	width: 300px;
+}
+
+.macaroons-img{
+	margin-top: 40px;
+}
+
+.form-h{
+	margin-bottom: -10px;
+	margin-top: 50px;
+}
+
+.select-200{
+	width: 230px;
+}
+
+.date-pick input:hover{
+	cursor: pointer;
+}
+
+.checkbox-from-who label{
+	font-size: 14px;
+	margin-top: 20px;
 }
