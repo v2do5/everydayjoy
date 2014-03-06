@@ -308,11 +308,15 @@ h3{
 }
 
 .text-block-style h1{
-	font-size: 30px;
+	font-size: 60px;
 	margin-top: 40px;
 	font-weight: 900;
 	margin-bottom: 10px;
 	color: #f24b86;
+}
+
+.text-block-style-img{
+	margin-top: 50px;	
 }
 
 
@@ -328,6 +332,7 @@ h3{
 	font-size: 18px;
 	color: #434242;
 	line-height: 34px;
+	margin-bottom: 16px;
 }
 
 .about-block p{
@@ -405,6 +410,11 @@ h3{
 	line-height: 28px;
 }
 
+.how-to img{
+	width: 250px;
+	text-align: center;
+}
+
 .what-inside{
 	color: #434242;
 	margin: auto;
@@ -427,6 +437,12 @@ h3{
 
 .what-inside-number{
 	font-size: 34px;
+	font-weight: 900;
+	color: #f24b86;
+}
+
+.what-inside-number-inf{
+	font-size: 44px;
 	font-weight: 900;
 	color: #f24b86;
 }
